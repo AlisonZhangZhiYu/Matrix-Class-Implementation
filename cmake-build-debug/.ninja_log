@@ -1,0 +1,15 @@
+# ninja log v6
+19	754	7401590895831805	CMakeFiles/MatrixClass.dir/main.cpp.obj	28cdebb147555550
+754	900	7401590903183817	MatrixClass.exe	de4c2c5e011afbf6
+26	669	7401590895901818	CMakeFiles/MatrixClass.dir/Matrix.cpp.obj	9137dbf4f2f2650d
+77	825	7402084863652557	CMakeFiles/MatrixClass.dir/Matrix.cpp.obj	9137dbf4f2f2650d
+23	839	7402084863117354	CMakeFiles/MatrixClass.dir/main.cpp.obj	28cdebb147555550
+839	1052	7402084871281401	MatrixClass.exe	de4c2c5e011afbf6
+18	593	7402085284910785	CMakeFiles/MatrixClass.dir/main.cpp.obj	28cdebb147555550
+594	717	7402085290664802	MatrixClass.exe	de4c2c5e011afbf6
+26	622	7402086657286707	CMakeFiles/MatrixClass.dir/Matrix.cpp.obj	9137dbf4f2f2650d
+20	642	7402086657228066	CMakeFiles/MatrixClass.dir/main.cpp.obj	28cdebb147555550
+642	766	7402086663446747	MatrixClass.exe	de4c2c5e011afbf6
+13	801	7402087876975333	CMakeFiles/MatrixClass.dir/Matrix.cpp.obj	9137dbf4f2f2650d
+6	851	7402087876905308	CMakeFiles/MatrixClass.dir/main.cpp.obj	28cdebb147555550
+851	1019	7402087885354540	MatrixClass.exe	de4c2c5e011afbf6
